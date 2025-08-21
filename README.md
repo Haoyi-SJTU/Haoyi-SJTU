@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Haoyi-SJTU" /> </div>
+
 <!--
 **Haoyi-SJTU/Haoyi-SJTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Haoyi-SJTU" /> </div>
 
 <div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide=TeX,html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=ccebc5,a8ddb5,7bccc4,4eb3d3&theme=graywhite" /> </div>
 
