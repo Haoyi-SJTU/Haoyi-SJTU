@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide_title=true&hide_border=true &layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=tex,html)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide=tex,html)](https://github.com/Haoyi-SJTU/github-readme-stats)
