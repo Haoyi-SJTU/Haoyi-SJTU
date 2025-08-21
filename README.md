@@ -40,7 +40,7 @@ Open-source Project:
 Project Video:
 
 <p align="center">
-  <a href="https://youtu.be/FsOk0mO07QY">
+  <a href="https://www.youtube.com/embed/FsOk0mO07QY">
     <img src="https://img.youtube.com/vi/FsOk0mO07QY/0.jpg" alt="点击观看视频">
   </a>
 </p>
