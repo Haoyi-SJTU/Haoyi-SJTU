@@ -31,8 +31,7 @@ PhD student in Shanghai Jiao Tong University
 
  - Focus: Compensation for motion errors in hyper-redundant robots.
  - Tools: Force sensors, joint encoders, IMU, Python, MATLAB, Qt, CNN.
- - Approach: Kinematic + data-driven modeling. A ResNet deep residual network for kinematic residuals.
- - Research: Kinematic + data-driven modeling to improve control accuracy.
+ - Approach: Kinematic + data-driven modeling to improve control accracy. A ResNet deep residual network for kinematic residuals.
 
 
 ### Precise Positioning of Hyper-redundant Robot End
@@ -50,7 +49,7 @@ PhD student in Shanghai Jiao Tong University
 
   - Focus: Analysis of disturbance resistance using robot kinematics.
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
-  - Approach: 
+  - Approach: Propose a disturbance hyper-ellipsoid metric to quantify the impact of disturbances on robot joints, based on robotic kinematics.
   - Result: Optimization of path planning and disturbance resistance.
   - [Video Demonstration](https://www.youtube.com/embed/s-bzES5cZls)
 
@@ -58,8 +57,8 @@ PhD student in Shanghai Jiao Tong University
 ### Coupler Target Recognition for Complex Field Environments
 
   - Focus: Train coupling recognition for complex outdoor environments.
-  - Tools: C++, Python, PCL, Open3D.
-  - Approach: Structured light camera. Interference eliminated by clustering, template matching, etc. A genetic algorithm for matching the point cloud. Geometric features encoded as genetic genes. 
+  - Tools: Structured light camera, C++, Python, PCL, Open3D.
+  - Approach: Interference eliminated by clustering, template matching, etc. Propose a genetic algorithm for matching the point cloud. Geometric features encoded as genetic genes. 
   - Results: success rate of 95%
   - [Read Paper](https://ieeexplore.ieee.org/document/9665109)
   - [Video Demonstration](https://www.bilibili.com/video/BV1ZRtRz3E1A/)
