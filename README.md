@@ -17,7 +17,7 @@ PhD student in Shanghai Jiao Tong University
   - Advisor: [Prof.Xiangyang Zhu](https://me.sjtu.edu.cn/teacher_directory1/zhuxiangyang.html)
   - Research: Vibration suppression of hyper-redundant robots (Multimodal Perception, Robotics, etc)
 
-<img align="right" width="88" src="https://ooo.0x0.ooo/2025/08/21/OfcWbX.png" />
+<img align="right" width="88" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/seu.png" />
 
 - `BA` School of Mechanical Engineering, Southeast University
 
@@ -36,6 +36,8 @@ PhD student in Shanghai Jiao Tong University
 
 ### Precise Positioning of Hyper-redundant Robot End
 
+<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/LVI_hrr.png" />
+
   - Focus: Accurate positioning in constrained environments using visual-inertial odometry (VIO).
   - Tools: IMU, Cameras, C++, ROS, OpenCV, PCL, Gurobi.
   - Approach: A visual-inertial odometry framework (VIO) and a monocular image depth estimation method. A monocular image depth estimation method based on triangulation is proposed.
@@ -47,6 +49,8 @@ PhD student in Shanghai Jiao Tong University
 
 ### Disturbance-Resistance Performance Analysis of Hyper-Redundant Robots
 
+<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/dis.png" />
+
   - Focus: Analysis of disturbance resistance using robot kinematics.
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
   - Approach: Propose a disturbance hyper-ellipsoid metric to quantify the impact of disturbances on robot joints, based on robotic kinematics.
@@ -55,6 +59,8 @@ PhD student in Shanghai Jiao Tong University
 
 
 ### Coupler Target Recognition for Complex Field Environments
+
+<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/1111111.png" />
 
   - Focus: Train coupling recognition for complex outdoor environments.
   - Tools: Structured light camera, C++, Python, PCL, Open3D.
@@ -65,6 +71,8 @@ PhD student in Shanghai Jiao Tong University
 
 ### Collaborative Handling by Multiple Mobile Manipulators
 
+<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/123.png" />
+
   - Focus: Multi-robot multi-modal sensor data collection and communication issues, providing perception data for multi-robot transportation.
   - Tools: C++, ROS.
   - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. Effectiveness validated on multiple mobile manipulators.
@@ -73,6 +81,9 @@ PhD student in Shanghai Jiao Tong University
 
 
 ### Humanoid Robotic Hand–Arm Grasp Coordination
+
+<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/111.png" />
+
   - Focus: Coordinated with JAKA Robotics engineers, aimed at the company's external demonstrations.
   - Tools: C++, ROS， OpenCV, YOLO v5.
   - Approach: Use a 6-degree-of-freedom robotic arm combined with a humanoid robotic hand to grasp objects, utilizing an external-mounted RGBD camera to extract object coordinates.
