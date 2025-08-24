@@ -29,7 +29,7 @@ PhD student in Shanghai Jiao Tong University
 
   - Major： Mechanical Engineering
 
-## 📃 Research Project
+## 🔬 Research Project
 
 ### Residual Learning for Robot Motion Error(ongoing)
 
