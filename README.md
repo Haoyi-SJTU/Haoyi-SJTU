@@ -1,6 +1,10 @@
 
 
-## 🙋 Haoyi Song
+<h2 style="display: inline-block; border-bottom: 2px solid #000;">
+
+## 🙋 Haoyi Song <img align="right" width="220" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250824121922.jpg" />
+
+
 
 PhD student in Shanghai Jiao Tong University
 
@@ -8,7 +12,7 @@ PhD student in Shanghai Jiao Tong University
 
 ## 🏢 Education Experience
 
-<img align="right" width="88" src="https://vi.sjtu.edu.cn/img/base/Logo.png" />
+<img align="right" width="66" src="https://vi.sjtu.edu.cn/img/base/Logo.png" />
 
 - `PhD` Institute of Robotics, School of Mechanical Engineering, Shanghai Jiao Tong University
 
@@ -17,7 +21,7 @@ PhD student in Shanghai Jiao Tong University
   - Advisor: [Prof.Xiangyang Zhu](https://me.sjtu.edu.cn/teacher_directory1/zhuxiangyang.html)
   - Research: Vibration suppression of hyper-redundant robots (Multimodal Perception, Robotics, etc)
 
-<img align="right" width="88" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/seu.png" />
+<img align="right" width="66" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/seu.png" />
 
 - `BA` School of Mechanical Engineering, Southeast University
 
@@ -36,7 +40,7 @@ PhD student in Shanghai Jiao Tong University
 
 ### Precise Positioning of Hyper-redundant Robot End
 
-<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/LVI_hrr.png" />
+<img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/LVI_hrr.png" />
 
   - Focus: Accurate positioning in constrained environments using visual-inertial odometry (VIO).
   - Tools: IMU, Cameras, C++, ROS, OpenCV, PCL, Gurobi.
@@ -49,7 +53,7 @@ PhD student in Shanghai Jiao Tong University
 
 ### Disturbance-Resistance Performance Analysis of Hyper-Redundant Robots
 
-<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/dis.png" />
+<img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/dis.png" />
 
   - Focus: Analysis of disturbance resistance using robot kinematics.
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
@@ -60,7 +64,7 @@ PhD student in Shanghai Jiao Tong University
 
 ### Coupler Target Recognition for Complex Field Environments
 
-<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/1111111.png" />
+<img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/1111111.png" />
 
   - Focus: Train coupling recognition for complex outdoor environments.
   - Tools: Structured light camera, C++, Python, PCL, Open3D.
@@ -71,7 +75,7 @@ PhD student in Shanghai Jiao Tong University
 
 ### Collaborative Handling by Multiple Mobile Manipulators
 
-<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/123.png" />
+<img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/123.png" />
 
   - Focus: Multi-robot multi-modal sensor data collection and communication issues, providing perception data for multi-robot transportation.
   - Tools: C++, ROS.
@@ -82,7 +86,7 @@ PhD student in Shanghai Jiao Tong University
 
 ### Humanoid Robotic Hand–Arm Grasp Coordination
 
-<img align="right" width="450" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/111.png" />
+<img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/111.png" />
 
   - Focus: Coordinated with JAKA Robotics engineers, aimed at the company's external demonstrations.
   - Tools: C++, ROS， OpenCV, YOLO v5.
@@ -91,7 +95,7 @@ PhD student in Shanghai Jiao Tong University
   - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)
 
 
-## 📃 Academic Achievements
+## 🔬 Academic Achievements
 
 ### Paper:
 
