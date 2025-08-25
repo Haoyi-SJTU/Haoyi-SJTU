@@ -35,7 +35,7 @@ PhD student in Shanghai Jiao Tong University
 
  - Focus: Compensation for motion errors in hyper-redundant robots.
  - Tools: Force sensors, joint encoders, IMU, Python, MATLAB, Qt, CNN.
- - Approach: Kinematic + data-driven modeling to improve control accracy. A ResNet deep residual network for kinematic residuals.
+ - Approach: Kinematic + data-driven modeling. A deep residual network for kinematic residuals.
 
 
 ### Precise Positioning of Hyper-redundant Robot End
