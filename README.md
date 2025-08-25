@@ -95,7 +95,7 @@ PhD student in Shanghai Jiao Tong University
   - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)
 
 
-## 🔬 Academic Achievements
+## 📝 Academic Achievements
 
 ### Paper:
 
