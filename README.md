@@ -50,7 +50,6 @@ PhD student in Shanghai Jiao Tong University
   - [Video Demonstration](https://www.youtube.com/embed/FsOk0mO07QY)
   - Open-source Project: [`lvi`](https://github.com/Haoyi-SJTU/lvi)
 
-
 ### Disturbance-Resistance Performance Analysis of Hyper-Redundant Robots
 
 <img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/dis.png" />
@@ -114,6 +113,8 @@ PhD student in Shanghai Jiao Tong University
 ## About My GitHub:
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide=TeX,html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=ccebc5,a8ddb5,7bccc4,4eb3d3&theme=graywhite" /> </div>
+
+
 
 
  <div>&nbsp;</div>
