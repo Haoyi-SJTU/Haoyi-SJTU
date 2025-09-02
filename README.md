@@ -42,10 +42,10 @@ PhD student in Shanghai Jiao Tong University
 
 <img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/LVI_hrr.png" />
 
-  - Focus: Accurate positioning in constrained environments using visual-inertial odometry (VIO).
+  - Focus: Accurate positioning in constrained environments.
   - Tools: IMU, Cameras, C++, ROS, OpenCV, PCL, Gurobi.
-  - Approach: A visual-inertial odometry framework (VIO) and a monocular image depth estimation method. A monocular image depth estimation method based on triangulation is proposed.
-  - Result: 4.5x improvement in accuracy compared to DM-VIO.
+  - Approach: Visual-inertial odometry (VIO) and a monocular image depth estimation method. Optimization-based backend to process multi-modal residuals.
+  - Result: 4.5x improvement in accuracy compared to DM-VIO. 1 SCI journal paper published. 1 invention patent granted.
   - [Read Paper](https://ieeexplore.ieee.org/document/10619992)
   - [Video Demonstration](https://www.youtube.com/embed/FsOk0mO07QY)
   - Open-source Project: [`lvi`](https://github.com/Haoyi-SJTU/lvi)
@@ -57,11 +57,11 @@ PhD student in Shanghai Jiao Tong University
   - Focus: Analysis of disturbance resistance using robot kinematics.
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
   - Approach: Propose a disturbance hyper-ellipsoid metric to quantify the impact of disturbances on robot joints, based on robotic kinematics.
-  - Result: Optimization of path planning and disturbance resistance.
+  - Result: Posture optimization for disturbance resistance. 1 SCI journal paper under submission.
   - [Video Demonstration](https://www.youtube.com/embed/s-bzES5cZls)
 
 
-### Coupler Target Recognition for Complex Field Environments
+### Coupler Target Recognition for Complex Environments
 
 <img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/1111111.png" />
 
@@ -78,8 +78,8 @@ PhD student in Shanghai Jiao Tong University
 
   - Focus: Multi-robot multi-modal sensor data collection and communication issues, providing perception data for multi-robot transportation.
   - Tools: C++, ROS.
-  - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. Effectiveness validated on multiple mobile manipulators.
-  - Results: 1 SCI journal paper submitted.
+  - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. 
+  - Results: Effectiveness validated on multiple mobile manipulators. 1 SCI journal paper submitted.
   - [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
 
 
@@ -87,9 +87,8 @@ PhD student in Shanghai Jiao Tong University
 
 <img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/111.png" />
 
-  - Focus: Coordinated with JAKA Robotics engineers, aimed at the company's external demonstrations.
-  - Tools: C++, ROS， OpenCV, YOLO v5.
-  - Approach: Use a 6-degree-of-freedom robotic arm combined with a humanoid robotic hand to grasp objects, utilizing an external-mounted RGBD camera to extract object coordinates.
+  - Focus: A 6-DOF robot combined with a humanoid robotic hand to grasp objects, utilizing an external-mounted RGBD camera to extract object coordinates. Aimed at the JAKA company's external demonstrations.
+  - Tools: C++, ROS, OpenCV, YOLO v5.
   - [Video Demonstration](https://youtu.be/w6cCVBafOrc)
   - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)
 
