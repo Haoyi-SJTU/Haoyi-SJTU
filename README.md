@@ -107,7 +107,7 @@ PhD student in Shanghai Jiao Tong University
 
 5. CN110102068A **First Inventor** – "Non-carbon steering adjustment mechanism"(Authorized).
 6. CN110388430A **First Inventor** – "Ball screw with self-locking structure"(Authorized).
-7. CN116277154A **First Inventor** – "A sensor quick-mount for a highly redundant serpentine robotic arm"(Authorized).
+7. CN116277154A **First Inventor** – "A sensor quick-mount for hyper-redundant robots"(Authorized).
 8. CN114995027A  – "A camera gimbal"(Authorized).
 
 ## About My GitHub:
