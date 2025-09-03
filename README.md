@@ -95,19 +95,19 @@ PhD student in Shanghai Jiao Tong University
 
 ## 📝 Academic Achievements
 
-### Paper:
+### Papers:
 
 1. **H. Song**, J. Deng, W. Guo and X. Sheng, "Visual–Inertial Fusion With Depth Measuring for Hyper-Redundant Robot’s End Under Constrained Environment," in *IEEE Transactions on Instrumentation and Measurement (TIM)* with *IEEE I2MTC 2025*
 2. **H. Song**, Z. Zhu, Z. Peng, W. Guo, C. Liu and X. Sheng, "Perturbation Hyper-ellipsoid: An Evaluation Method for the Anti-perturbation Performance of Hyper-redundant Robot," (Under Revision)
 3. **H. Song**, Z. Chai, X. Sheng, Z. Xiong and X. Zhu, "Cylinder Fitting of Coupler Using an Improved Genetic Algorithm," in *International Conference on Mechatronics and Machine Vision in Practice (IEEE M2VIP 2021)*
 4. H. Zhang, **H. Song**, W. Liu, Z. Xiong, X. Zhu, "A Novel Semi-Coupled Hierarchical Motion Planning Framework for Cooperative Transportation of Multiple Mobile Manipulators," (Under Revision)
 
-### Patents:
+### Authorized Patents:
 
-5. CN110102068A **First Inventor** – "Non-carbon steering adjustment mechanism"(Authorized).
-6. CN110388430A **First Inventor** – "Ball screw with self-locking structure"(Authorized).
-7. CN116277154A **Second Inventor** – "A sensor quick-mount for hyper-redundant robots"(Authorized).
-8. CN114995027A  – "A camera gimbal"(Authorized).
+5. CN110102068A **First Inventor** – "Non-carbon steering adjustment mechanism".
+6. CN110388430A **First Inventor** – "Ball screw with self-locking structure".
+7. CN116277154A **Second Inventor** – "A sensor quick-mount for hyper-redundant robots".
+8. CN114995027A  – "A camera gimbal".
 
 ## About My GitHub:
 
