@@ -80,6 +80,7 @@ PhD student in Shanghai Jiao Tong University
   - Tools: C++, ROS.
   - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. 
   - Results: Effectiveness validated on multiple mobile manipulators. 1 SCI journal paper submitted.
+  - [Read Paper](https://arxiv.org/abs/2208.08054)
   - [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
 
 
