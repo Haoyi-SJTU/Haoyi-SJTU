@@ -82,6 +82,7 @@ PhD student in Shanghai Jiao Tong University
   - Results: Effectiveness validated on multiple mobile manipulators. 1 SCI journal paper submitted.
   - [Read Paper](https://arxiv.org/abs/2208.08054)
   - [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
+  - Open-source Project: [`jaka_velocity`](https://github.com/Haoyi-SJTU/jaka_velocity) [`apriltag_modified`](https://github.com/Haoyi-SJTU/apriltag)
 
 
 ### Humanoid Robotic Hand–Arm Grasp Coordination
@@ -91,7 +92,7 @@ PhD student in Shanghai Jiao Tong University
   - Focus: A 6-DOF robot combined with a humanoid robotic hand to grasp objects, utilizing an external-mounted RGBD camera to extract object coordinates. Aimed at the JAKA company's external demonstrations.
   - Tools: C++, ROS, OpenCV, YOLO v5.
   - [Video Demonstration](https://youtu.be/w6cCVBafOrc)
-  - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)
+  - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)  [`jaka_description`](https://github.com/Haoyi-SJTU/jaka_description)
 
 
 ## 📝 Academic Achievements
