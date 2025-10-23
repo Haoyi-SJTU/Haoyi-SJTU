@@ -101,8 +101,8 @@ PhD student in Shanghai Jiao Tong University
 
 1. **H. Song**, J. Deng, W. Guo and X. Sheng, "Visual–Inertial Fusion With Depth Measuring for Hyper-Redundant Robot’s End Under Constrained Environment," in *IEEE Transactions on Instrumentation and Measurement (TIM)* with *IEEE I2MTC 2025*
 2. **H. Song**, Z. Zhu, Z. Peng, W. Guo, C. Liu and X. Sheng, "Perturbation Hyper-ellipsoid: An Evaluation Method for the Anti-perturbation Performance of Hyper-redundant Robot," (Under Revision)
-3. **H. Song**, Z. Chai, X. Sheng, Z. Xiong and X. Zhu, "Cylinder Fitting of Coupler Using an Improved Genetic Algorithm," in *International Conference on Mechatronics and Machine Vision in Practice (IEEE M2VIP 2021)*
-4. H. Zhang, **H. Song**, W. Liu, Z. Xiong, X. Zhu, "A Novel Semi-Coupled Hierarchical Motion Planning Framework for Cooperative Transportation of Multiple Mobile Manipulators," (Under Revision)
+3. **H. Song**, Z. Chai, X. Sheng, Z. Xiong and X. Zhu, "Cylinder Fitting of Coupler Using an Improved Genetic Algorithm," in *International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021)*
+4. H. Zhang, **H. Song**, W. Liu, Z. Xiong, X. Zhu, "A Novel Semi-Coupled Hierarchical Motion Planning Framework for Cooperative Transportation of Multiple Mobile Manipulators," in *Robotica*
 
 ### Authorized Patents:
 
