@@ -106,10 +106,10 @@ PhD student in Shanghai Jiao Tong University
 
 ### Authorized Patents:
 
-5. CN110102068A **First Inventor** – "Non-carbon steering adjustment mechanism".
-6. CN110388430A **First Inventor** – "Ball screw with self-locking structure".
-7. CN116277154A **Second Inventor** – "A sensor quick-mount for hyper-redundant robots".
-8. CN114995027A  – "A camera gimbal".
+5. ZL201910398073.3 – "Non-carbon steering adjustment mechanism". **First Inventor**
+6. ZL201910699568.X – "Ball screw with self-locking structure". **First Inventor**
+7. ZL202310301008.0 – "A sensor quick-mount for hyper-redundant robots". **Second Inventor** 
+8. ZL202210752423.3  – "A camera gimbal".
 
 ## About My GitHub:
 
