@@ -71,6 +71,7 @@ PhD student in Shanghai Jiao Tong University
   - Results: success rate of 95%
   - [Read Paper](https://ieeexplore.ieee.org/document/9665109)
   - [Video Demonstration](https://www.bilibili.com/video/BV1ZRtRz3E1A/)
+  - Open-source Project: [`jaka_zu12_description`](https://github.com/Haoyi-SJTU/jaka_zu12_description)
 
 ### Collaborative Handling by Multiple Mobile Manipulators
 
