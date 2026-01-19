@@ -121,6 +121,6 @@ PhD student in Shanghai Jiao Tong University
 
  <div>&nbsp;</div>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=stay%20foolish,%20stay%20hungry;求知若渴，虚心若愚&center=true&size=27)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=stay%20foolish,%20stay%20hungry;求知若渴，虚心若愚&center=true&size=27)](https://git.io/typing-svg) -->
 
 
