@@ -8,7 +8,7 @@
 
 PhD student in Shanghai Jiao Tong University
 
-📧 Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
+Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
 
 ## 🏢 Education Experience
 
