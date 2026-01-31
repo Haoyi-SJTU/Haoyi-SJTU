@@ -46,8 +46,8 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
   - Tools: IMU, Cameras, C++, ROS, OpenCV, PCL, Gurobi.
   - Approach: Visual-inertial odometry (VIO) and a monocular image depth estimation method. Optimization-based backend to process multi-modal residuals.
   - Result: 4.5x improvement in accuracy compared to DM-VIO. 1 SCI journal paper published. 1 invention patent granted.
-  - [Read Paper](https://ieeexplore.ieee.org/document/10619992)
-  - [Video Demonstration](https://www.youtube.com/embed/FsOk0mO07QY)
+  - Paper: [Visual–Inertial Fusion With Depth Measuring for Hyper-Redundant Robot’s End Under Constrained Environment](https://ieeexplore.ieee.org/document/10619992)
+  - Video: [Video Demonstration](https://www.youtube.com/embed/FsOk0mO07QY)
   - Open-source Project: [`lvi`](https://github.com/Haoyi-SJTU/lvi)
 
 ### Disturbance-Resistance Performance Analysis of Hyper-Redundant Robots
@@ -58,7 +58,7 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
   - Approach: Propose a disturbance hyper-ellipsoid metric to quantify the impact of disturbances on robot joints, based on robotic kinematics.
   - Result: Posture optimization for disturbance resistance. 1 SCI journal paper under submission.
-  - [Video Demonstration](https://www.youtube.com/embed/s-bzES5cZls)
+  - Video: [Video Demonstration](https://www.youtube.com/embed/s-bzES5cZls)
 
 
 ### Coupler Target Recognition for Complex Environments
@@ -69,8 +69,8 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
   - Tools: Structured light camera, C++, Python, PCL, Open3D.
   - Approach: Interference eliminated by clustering, template matching, etc. Propose a genetic algorithm for matching the point cloud. Geometric features encoded as genetic genes. 
   - Results: success rate of 95%
-  - [Read Paper](https://ieeexplore.ieee.org/document/9665109)
-  - [Video Demonstration](https://www.bilibili.com/video/BV1ZRtRz3E1A/)
+  - Paper: [Cylinder Fitting of Coupler Using an Improved Genetic Algorithm](https://ieeexplore.ieee.org/document/9665109)
+  - Video: [Video Demonstration](https://www.bilibili.com/video/BV1ZRtRz3E1A/)
   - Open-source Project: [`jaka_zu12_description`](https://github.com/Haoyi-SJTU/jaka_zu12_description)
 
 ### Collaborative Handling by Multiple Mobile Manipulators
@@ -81,8 +81,8 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
   - Tools: C++, ROS.
   - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. 
   - Results: Effectiveness validated on multiple mobile manipulators. 1 SCI journal paper submitted.
-  - [Read Paper](https://arxiv.org/abs/2208.08054)
-  - [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
+  - Paper: [A novel semi-coupled hierarchical motion planning framework for cooperative transportation of multiple mobile manipulators](https://www.cambridge.org/core/journals/robotica/article/abs/novel-semicoupled-hierarchical-motion-planning-framework-for-cooperative-transportation-of-multiple-mobile-manipulators/25FA5B8B64030267388C0161E9E9CD03?utm_campaign=shareaholic)
+  - Video: [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
   - Open-source Project: [`jaka_velocity`](https://github.com/Haoyi-SJTU/jaka_velocity) [`apriltag_modified`](https://github.com/Haoyi-SJTU/apriltag)
 
 
@@ -92,7 +92,7 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
 
   - Focus: A 6-DOF robot combined with a humanoid robotic hand to grasp objects, utilizing an external-mounted RGBD camera to extract object coordinates. Aimed at the JAKA company's external demonstrations.
   - Tools: C++, ROS, OpenCV, YOLO v5.
-  - [Video Demonstration](https://youtu.be/w6cCVBafOrc)
+  - Video: [Video Demonstration](https://youtu.be/w6cCVBafOrc)
   - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)  [`jaka_description`](https://github.com/Haoyi-SJTU/jaka_description)
 
 
