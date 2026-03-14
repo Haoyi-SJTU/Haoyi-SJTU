@@ -114,9 +114,7 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
 
 ## About My GitHub:
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide=TeX,html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=ccebc5,a8ddb5,7bccc4,4eb3d3&theme=graywhite" /> </div>
-
-
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-SJTU&hide=TeX,html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=ccebc5,a8ddb5,7bccc4,4eb3d3&theme=graywhite" /> </div><img align="left" width="300" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/about.png" />
 
 
  <div>&nbsp;</div>
