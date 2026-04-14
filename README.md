@@ -34,7 +34,7 @@ Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
 ### Residual Learning for Robot Motion Error(ongoing)
 
  - Focus: Compensation for motion errors in hyper-redundant robots.
- - Tools: Force sensors, joint encoders, IMU, Python, MATLAB, Qt, CNN.
+ - Tools: Force sensors, joint encoders, IMU, Python, MATLAB, Qt, CNN, onnx.
  - Approach: Kinematic + data-driven modeling. A deep residual network for kinematic residuals.
 
 
