@@ -2,7 +2,7 @@
 
 <h2 style="display: inline-block; border-bottom: 2px solid #000;">
 
-## 🙋 Haoyi Song <img align="right" width="220" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250824121922.jpg" />
+## 🙋 Haoyi Song <img align="right" width="220" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/figure.jpg" />
 
 
 
