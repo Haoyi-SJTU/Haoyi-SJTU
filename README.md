@@ -82,7 +82,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
   - Focus: Multi-robot multi-modal sensor data collection and communication issues, providing perception data for multi-robot transportation.
   - Tools: C++, ROS.
   - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. 
-  - Results: Effectiveness validated on multiple mobile manipulators. 1 SCI journal paper submitted.
+  - Results: Effectiveness validated on multiple mobile manipulators. 
   - Paper: [A novel semi-coupled hierarchical motion planning framework for cooperative transportation of multiple mobile manipulators](https://www.cambridge.org/core/journals/robotica/article/abs/novel-semicoupled-hierarchical-motion-planning-framework-for-cooperative-transportation-of-multiple-mobile-manipulators/25FA5B8B64030267388C0161E9E9CD03?utm_campaign=shareaholic)
   - Video: [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
   - Open-source Project: [`jaka_velocity`](https://github.com/Haoyi-SJTU/jaka_velocity) [`apriltag_modified`](https://github.com/Haoyi-SJTU/apriltag)
