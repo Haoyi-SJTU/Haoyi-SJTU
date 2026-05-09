@@ -21,7 +21,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
      📌 09/2020 – Present  &emsp; 📍 Shanghai
 
   - Advisor: [Prof.Xiangyang Zhu](https://me.sjtu.edu.cn/teacher_directory1/zhuxiangyang.html)
-  - Research: Vibration suppression of hyper-redundant robots (Multimodal Perception, Robotics, etc)
+  - Research: precision enhancement of hyper-redundant robots, including neural networks, multimodal perception, robotics.
 
 <img align="right" width="66" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/seu.png" />
 
@@ -30,13 +30,14 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
      📌 09/2016 – 06/2020  &emsp; 📍 Nanjing
 
   - Major： Mechanical Engineering
+  - Awards: National Scholarship, Outstanding Graduate
 
 ## 🔬 Research Project
 
 ### Residual Learning for Robot Motion Error(ongoing)
 
  - Focus: Compensation for motion errors in hyper-redundant robots.
- - Tools: Force sensors, joint encoders, IMU, Python, MATLAB, Qt, CNN, onnx.
+ - Tools: residual networks, onnx, Python, MATLAB, Qt.
  - Approach: Kinematic + data-driven modeling. A deep residual network for kinematic residuals.
 
 
@@ -70,7 +71,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
   - Focus: Train coupling recognition for complex outdoor environments.
   - Tools: Structured light camera, C++, Python, PCL, Open3D.
   - Approach: Interference eliminated by clustering, template matching, etc. Propose a genetic algorithm for matching the point cloud. Geometric features encoded as genetic genes. 
-  - Results: success rate of 95%
+  - Results: success rate of 95%, deployed to production.
   - Paper: [Cylinder Fitting of Coupler Using an Improved Genetic Algorithm](https://ieeexplore.ieee.org/document/9665109)
   - Video: [Video Demonstration](https://www.bilibili.com/video/BV1ZRtRz3E1A/)
   - Open-source Project: [`jaka_zu12_description`](https://github.com/Haoyi-SJTU/jaka_zu12_description)
