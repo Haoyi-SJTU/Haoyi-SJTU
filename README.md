@@ -6,7 +6,7 @@
 
 
 
-PhD student, participated in the authorship of the textbook for "Design and Manufacturing"（《设计与制造》专业课教材） course of Mechanical Engineering, Shanghai Jiao Tong University.
+PhD student. _IEEE Student Member_. Authorship of the textbook for "Design and Manufacturing"（《设计与制造》专业课教材） course of Mechanical Engineering, Shanghai Jiao Tong University.
 
 Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
 
