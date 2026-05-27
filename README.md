@@ -2,17 +2,17 @@
 
 <h2 style="display: inline-block; border-bottom: 2px solid #000;">
 
-## 🙋 Haoyi Song <img align="right" width="220" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/figure.jpg" />
+## Hi there! This is Haoyi Song <img align="right" width="220" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/figure.jpg" />
 
 
 
-PhD student. _IEEE Student Member_. Authorship of the textbook for "Design and Manufacturing"（《设计与制造》专业课教材） course of Mechanical Engineering, Shanghai Jiao Tong University.
+PhD student. _IEEE Student Member_. Authorship of the textbook for Design and Manufacturing course (《设计与制造》专业课教材) of SJTU.
 
 Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
-
+&emsp;&emsp;&emsp;&emsp;
 Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
-## 🏢 Education Experience
+## Education Experience
 
 <img align="right" width="66" src="https://vi.sjtu.edu.cn/img/base/Logo.png" />
 
@@ -32,7 +32,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
   - Major： Mechanical Engineering
   - Awards: National Scholarship, Outstanding Graduate
 
-## 🔬 Research Project
+## Research Project
 
 ### Residual Learning for Robot Motion Error(ongoing)
 
@@ -98,7 +98,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
   - Open-source Project: [`jaka_show`](https://github.com/Haoyi-SJTU/jaka_show)  [`jaka_description`](https://github.com/Haoyi-SJTU/jaka_description)
 
 
-## 📝 Academic Achievements
+## Academic Achievements
 
 ### Papers:
 
