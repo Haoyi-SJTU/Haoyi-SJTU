@@ -6,7 +6,7 @@
 
 
 
-PhD student. _IEEE Student Member_. Authorship of the textbook for Design and Manufacturing course (《设计与制造》专业课教材) of SJTU.
+PhD student. _IEEE Student Member_. Authorship of the textbook for Design and Manufacturing course (《设计与制造》教材) of SJTU.
 
 Email: [songhaoyi@sjtu.edu.cn](mailto:songhaoyi@sjtu.edu.cn)
 &emsp;&emsp;&emsp;&emsp;
