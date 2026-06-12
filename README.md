@@ -109,9 +109,9 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
 ### Authorized Patents:
 
-5. ZL201910398073.3 – "Non-carbon steering adjustment mechanism". **First Inventor**
-6. ZL201910699568.X – "Ball screw with self-locking structure". **First Inventor**
-7. ZL202310301008.0 – "A sensor quick-mount for hyper-redundant robots". **Second Inventor** 
+5. ZL201910398073.3 – "Non-carbon steering adjustment mechanism". **H. Song**, Y. Ding, Y. Wang.
+6. ZL201910699568.X – "Ball screw with self-locking structure". **H. Song**, R. Qian.
+7. ZL202310301008.0 – "A sensor quick-mount for hyper-redundant robots". X. Sheng, **H. Song**, W. Guo.
 8. ZL202210752423.3  – "A camera gimbal".
 
 ## About My GitHub:
