@@ -61,6 +61,9 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
   - Approach: Propose a disturbance hyper-ellipsoid metric to quantify the impact of disturbances on robot joints, based on robotic kinematics.
   - Result: Posture optimization for disturbance resistance. 1 SCI journal paper under submission.
+  - Paper: Disturbance Hyper-ellipsoid: A Metric for Evaluating Disturbance Resistance of Hyper-redundant Robots
+  - video: [Video Demonstration](https://youtu.be/LZfitKhQ1Bw)
+  - Open-source Project: [`DHE`](https://github.com/Haoyi-SJTU/DHE)
 
 
 ### Coupler Target Recognition for Complex Environments
