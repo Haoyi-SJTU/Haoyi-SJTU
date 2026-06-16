@@ -106,7 +106,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 ### Papers:
 
 1. **H. Song**, J. Deng, W. Guo and X. Sheng, "Visual–Inertial Fusion With Depth Measuring for Hyper-Redundant Robot’s End Under Constrained Environment," in *IEEE Transactions on Instrumentation and Measurement (TIM)* with *IEEE International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2025)*
-2. **H. Song**, Z. Zhu, Z. Peng, W. Guo, C. Liu and X. Sheng, "Perturbation Hyper-ellipsoid: An Evaluation Method for the Anti-perturbation Performance of Hyper-redundant Robot," (Under Revision)
+2. **H. Song**, Z. Zhu, Z. Peng, W. Guo, C. Liu and X. Sheng, "Perturbation Hyper-ellipsoid: An Evaluation Method for the Anti-perturbation Performance of Hyper-redundant Robot," in *International Journal of Control, Automation and Systems*
 3. **H. Song**, Z. Chai, X. Sheng, Z. Xiong and X. Zhu, "Cylinder Fitting of Coupler Using an Improved Genetic Algorithm," in *IEEE International Conference on Mechatronics and Machine Vision in Practice (IEEE M2VIP 2021)*
 4. H. Zhang, **H. Song**, W. Liu, Z. Xiong, X. Zhu, "A Novel Semi-Coupled Hierarchical Motion Planning Framework for Cooperative Transportation of Multiple Mobile Manipulators," in *Robotica*
 
