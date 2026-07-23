@@ -39,6 +39,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
  - Focus: Compensation for motion errors in hyper-redundant robots.
  - Tools: residual networks, onnx, Python, MATLAB, Qt.
  - Approach: Kinematic + data-driven modeling. A deep residual network for kinematic residuals.
+ - Open-source Project: [`CDHM`](https://github.com/Haoyi-SJTU/cdhm_controller)
 
 
 ### Precise Positioning of Hyper-redundant Robot End
@@ -47,8 +48,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
   - Focus: Accurate positioning in constrained environments.
   - Tools: IMU, Cameras, C++, ROS, OpenCV, PCL, Gurobi.
-  - Approach: Visual-inertial odometry (VIO) and a monocular image depth estimation method. Optimization-based backend to process multi-modal residuals.
-  - Result: 4.5x improvement in accuracy compared to DM-VIO. 1 SCI journal paper published. 1 invention patent granted.
+  - Approach: Visual-inertial odometry and a monocular image depth estimation method.
   - Paper: [Visual–Inertial Fusion With Depth Measuring for Hyper-Redundant Robot’s End Under Constrained Environment](https://ieeexplore.ieee.org/document/10619992)
   - Video: [Video Demonstration](https://www.youtube.com/embed/FsOk0mO07QY)
   - Open-source Project: [`lvi`](https://github.com/Haoyi-SJTU/lvi)
@@ -58,9 +58,8 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 <img align="right" width="400" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/dis.png" />
 
   - Focus: Analysis of disturbance resistance using robot kinematics.
-  - Tools: C++, MATLAB, Gurobi, CoppeliaSim.
-  - Approach: Propose a disturbance hyper-ellipsoid metric to quantify the impact of disturbances on robot joints, based on robotic kinematics.
-  - Result: Posture optimization for disturbance resistance.
+  - Tools: C++, MATLAB, Gurobi, CoppeliaSim, Mojoco.
+  - Approach: A disturbance hyper-ellipsoid metric to quantify the disturbance snisitivity of robots.
   - Paper: Disturbance Hyper-ellipsoid: A Metric for Evaluating Disturbance Resistance of Hyper-redundant Robots
   - video: [Video Demonstration](https://youtu.be/LZfitKhQ1Bw)
   - Open-source Project: [`DHE`](https://github.com/Haoyi-SJTU/DHE)
@@ -72,8 +71,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
   - Focus: Train coupling recognition for complex outdoor environments.
   - Tools: Structured light camera, C++, Python, PCL, Open3D.
-  - Approach: Interference eliminated by clustering, template matching, etc. Propose a genetic algorithm for matching the point cloud. Geometric features encoded as genetic genes. 
-  - Results: success rate of 95%, deployed to production.
+  - Approach: Genetic algorithm for matching the target. 
   - Paper: [Cylinder Fitting of Coupler Using an Improved Genetic Algorithm](https://ieeexplore.ieee.org/document/9665109)
   - Video: [Video Demonstration](https://www.bilibili.com/video/BV1ZRtRz3E1A/)
   - Open-source Project: [`jaka_zu12_description`](https://github.com/Haoyi-SJTU/jaka_zu12_description)
@@ -84,8 +82,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
   - Focus: Multi-robot multi-modal sensor data collection and communication issues, providing perception data for multi-robot transportation.
   - Tools: C++, ROS.
-  - Approach: Single-robot image and force data collection through the ROS multi-robot communication framework. 
-  - Results: Effectiveness validated on multiple mobile manipulators. 
+  - Approach: ROS-based multi-robot communication framework. 
   - Paper: [A novel semi-coupled hierarchical motion planning framework for cooperative transportation of multiple mobile manipulators](https://www.cambridge.org/core/journals/robotica/article/abs/novel-semicoupled-hierarchical-motion-planning-framework-for-cooperative-transportation-of-multiple-mobile-manipulators/25FA5B8B64030267388C0161E9E9CD03?utm_campaign=shareaholic)
   - Video: [Video Demonstration](https://www.youtube.com/watch?v=Y8ZrnspIuBg)
   - Open-source Project: [`jaka_velocity`](https://github.com/Haoyi-SJTU/jaka_velocity) [`apriltag_modified`](https://github.com/Haoyi-SJTU/apriltag)
