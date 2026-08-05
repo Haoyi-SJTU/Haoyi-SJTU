@@ -60,7 +60,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
   - Focus: Analysis of disturbance resistance using robot kinematics.
   - Tools: C++, MATLAB, Gurobi, CoppeliaSim, Mojoco.
   - Approach: A disturbance hyper-ellipsoid metric to quantify the disturbance snisitivity of robots.
-  - Paper: Disturbance Hyper-ellipsoid: A Metric for Evaluating Disturbance Resistance of Hyper-redundant Robots
+  - Paper: [Disturbance Hyper-ellipsoid: A Metric for Evaluating Disturbance Resistance of Hyper-redundant Robots](https://doi.org/10.1007/s12555-026-00144-0)
   - video: [Video Demonstration](https://youtu.be/LZfitKhQ1Bw)
   - Open-source Project: [`DHE`](https://github.com/Haoyi-SJTU/DHE)
 
