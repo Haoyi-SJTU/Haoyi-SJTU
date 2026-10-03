@@ -16,8 +16,8 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
      📌 09/2020 – Present  &emsp; 📍 Shanghai
 
-  - Advisor: [Prof. Xiangyang Zhu](https://me.sjtu.edu.cn/teacher_directory1/zhuxiangyang.html) and [Prof. Xinjun Sheng](https://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html)
-  - Research: precision enhancement of hyper-redundant robots, including neural networks, multimodal perception, robotics.
+  - Advisor: [Prof. Xinjun Sheng](https://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html)
+  - Research: precision enhancement of hyper-redundant robots
 
 <img align="right" width="66" src="https://github.com/Haoyi-SJTU/Haoyi-SJTU/blob/main/figure/seu.png" />
 
@@ -25,8 +25,6 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
      📌 09/2016 – 06/2020  &emsp; 📍 Nanjing
 
-  - Major： Mechanical Engineering
-  - Awards: National Scholarship, Outstanding Graduate
 
 ## Research Project
 
