@@ -14,7 +14,7 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
 - `PhD` Institute of Robotics, School of Mechanical Engineering, Shanghai Jiao Tong University
 
-     📌 09/2020 – Present  &emsp; 📍 Shanghai
+     📌 09/2020 – 12/2026  &emsp; 📍 Shanghai
 
   - Advisor: [Prof. Xinjun Sheng](https://me.sjtu.edu.cn/teacher_directory1/shengxinjun.html)
   - Research: precision enhancement of hyper-redundant robots
@@ -98,8 +98,11 @@ Callsign： [BH4HIE](https://www.qrz.com/db/BH4HIE)
 
 1. **H. Song**, J. Deng, W. Guo and X. Sheng, "Visual–Inertial Fusion With Depth Measuring for Hyper-Redundant Robot’s End Under Constrained Environment," in *IEEE Transactions on Instrumentation and Measurement (TIM)* with *IEEE International Instrumentation and Measurement Technology Conference (IEEE I2MTC 2025)*
 2. **H. Song**, Z. Zhu, Z. Peng, W. Guo, C. Liu and X. Sheng, "Perturbation Hyper-ellipsoid: An Evaluation Method for the Anti-perturbation Performance of Hyper-redundant Robot," in *International Journal of Control, Automation and Systems*
-3. **H. Song**, Z. Chai, X. Sheng, Z. Xiong and X. Zhu, "Cylinder Fitting of Coupler Using an Improved Genetic Algorithm," in *IEEE International Conference on Mechatronics and Machine Vision in Practice (IEEE M2VIP 2021)*
-4. H. Zhang, **H. Song**, W. Liu, Z. Xiong, X. Zhu, "A Novel Semi-Coupled Hierarchical Motion Planning Framework for Cooperative Transportation of Multiple Mobile Manipulators," in *Robotica*
+3. **H. Song**, W. Guo, C. Liu and X. Sheng. A Physics-Informed World Model for Cable-Length Residual Prediction in Cable-Driven Robots in *2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)*. IEEE, 2026.
+4. **H. Song**, Z. Chai, X. Sheng, Z. Xiong and X. Zhu, "Cylinder Fitting of Coupler Using an Improved Genetic Algorithm," in *IEEE International Conference on Mechatronics and Machine Vision in Practice (IEEE M2VIP 2021)*
+5. H. Zhang, **H. Song**, W. Liu, Z. Xiong, X. Zhu, "A Novel Semi-Coupled Hierarchical Motion Planning Framework for Cooperative Transportation of Multiple Mobile Manipulators," in *Robotica*
+6. **H. Song**, J. Shi, C. Liu, W. Guo and X. Sheng. "hysics-Informed Learning for Cable Residual Compensation in Cable-Driven Robots," in *IEEE Robotics and Automation Letters* (Under Review)
+
 
 ### Authorized Patents:
 
